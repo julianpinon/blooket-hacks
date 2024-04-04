@@ -15,7 +15,7 @@
                 reactHandler().stateNode.setState({ cafeCash: Number(parseFloat(prompt('How much cash would you like?'))) });
 
 
-                alert('Added cash!');
+                alert('Added cash!200000000000000000000000000000000000000000000000000000000000000000000000000000000000');
             };
 })();
 
